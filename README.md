@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PaulSipos
-- 👀 I’m interested in DevOps, automation, networking, security, AI, dogs, horses, books, movies... 
-- 🌱 I’m currently learning DevOps tools, CI/CD, IaC, python
+- 👀 I’m interested in DevOps, automation, networking, security, AI, dogs, horses, books, movies, diving, skiing, tennis... 
+- 🌱 I’m currently working with DevOps tools, CI/CD, IaC mostly in Azure
 - 💞️ I’m looking to collaborate on Cloud, IaC, CI/CD, Networking, Security, philosophy culture and mindset.
 - 📫 How to reach me twitter @psipos79
 
